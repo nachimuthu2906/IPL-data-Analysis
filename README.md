@@ -58,14 +58,12 @@ The analysis is based on two tables:
 ✅ Analyze **team and player performances** across different IPL seasons.  
 ✅ Create **Power BI dashboards** to visualize trends and statistics.  
 ✅ Explore factors affecting match results (e.g., toss impact, super overs, etc.).  
-✅ Identify top-performing **players, teams, and venues**.  
-
+ 
 ---
 
 ## 🛠 Tech Stack Used
 - **MySQL**: Data storage and analysis
 - **Power BI**: Data visualization and dashboard creation
-- **Python (optional)**: Data preprocessing (if needed)
 
 ---
 
